@@ -31,7 +31,7 @@ $ ruby alsharabi-payload.rb
 
 # المدونة الخاص في الشروح
 
-https://sadamalsharabi.blogspot.com
+https://termuxalsharabi.blogspot.com
 
 # قناتي علـّۓ. التلجرام
 
